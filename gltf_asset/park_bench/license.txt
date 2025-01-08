@@ -1,0 +1,11 @@
+Model Information:
+* title:	Park_bench
+* source:	https://sketchfab.com/3d-models/park-bench-32a57e3bfee64bbea17d212d88061d64
+* author:	sameerirfan11422 (https://sketchfab.com/sameerirfan11422)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Park_bench" (https://sketchfab.com/3d-models/park-bench-32a57e3bfee64bbea17d212d88061d64) by sameerirfan11422 (https://sketchfab.com/sameerirfan11422) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

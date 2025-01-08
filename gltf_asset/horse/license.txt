@@ -1,0 +1,11 @@
+Model Information:
+* title:	Horse
+* source:	https://sketchfab.com/3d-models/horse-4ada0b0e8d6b4c16bcfc4bc88977ed54
+* author:	Anima artist's pieces (https://sketchfab.com/animaartistspieces)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Horse" (https://sketchfab.com/3d-models/horse-4ada0b0e8d6b4c16bcfc4bc88977ed54) by Anima artist's pieces (https://sketchfab.com/animaartistspieces) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

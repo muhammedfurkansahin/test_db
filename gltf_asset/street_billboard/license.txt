@@ -1,0 +1,11 @@
+Model Information:
+* title:	Street billboard
+* source:	https://sketchfab.com/3d-models/street-billboard-2e0e7e7046044f70b6283547d7f243a9
+* author:	Huub Ritfeld (https://sketchfab.com/huub.ritfeld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Street billboard" (https://sketchfab.com/3d-models/street-billboard-2e0e7e7046044f70b6283547d7f243a9) by Huub Ritfeld (https://sketchfab.com/huub.ritfeld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

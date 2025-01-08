@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Bush (V1)
+* source:	https://sketchfab.com/3d-models/stylized-bush-v1-7ccbbb3307004ad18bed624e356c5975
+* author:	SangeetBlaze (https://sketchfab.com/SangeetBlaze)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Bush (V1)" (https://sketchfab.com/3d-models/stylized-bush-v1-7ccbbb3307004ad18bed624e356c5975) by SangeetBlaze (https://sketchfab.com/SangeetBlaze) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

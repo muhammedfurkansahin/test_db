@@ -1,0 +1,11 @@
+Model Information:
+* title:	Urban Bench
+* source:	https://sketchfab.com/3d-models/urban-bench-66fb600f75624e53bfa0e6b385c8c4c6
+* author:	Igor_K. (https://sketchfab.com/Igor_K.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Urban Bench" (https://sketchfab.com/3d-models/urban-bench-66fb600f75624e53bfa0e6b385c8c4c6) by Igor_K. (https://sketchfab.com/Igor_K.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

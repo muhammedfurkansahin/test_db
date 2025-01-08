@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Path Light Pole (Low Poly)
+* source:	https://sketchfab.com/3d-models/sci-fi-path-light-pole-low-poly-7516615fa4dd44adbe0c66f4ae4de6b5
+* author:	Skipperino (https://sketchfab.com/skipperino)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Path Light Pole (Low Poly)" (https://sketchfab.com/3d-models/sci-fi-path-light-pole-low-poly-7516615fa4dd44adbe0c66f4ae4de6b5) by Skipperino (https://sketchfab.com/skipperino) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

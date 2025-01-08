@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bank
+* source:	https://sketchfab.com/3d-models/bank-c4114b4c1fd240f1b9aad57f9bb3f851
+* author:	pamoan10 (https://sketchfab.com/pamoan10)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bank" (https://sketchfab.com/3d-models/bank-c4114b4c1fd240f1b9aad57f9bb3f851) by pamoan10 (https://sketchfab.com/pamoan10) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
