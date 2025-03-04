@@ -1,0 +1,91 @@
+site_name: Nominatim Manual
+theme:
+  font: false
+  name: material
+  features:
+    - navigation.tabs
+    - toc.integrate
+  plugins:
+    - privacy
+copyright: Copyright &copy; Nominatim developer community
+docs_dir: docs
+site_url: https://nominatim.org
+repo_url: https://github.com/openstreetmap/Nominatim
+nav:
+    - 'Introduction' : 'index.md'
+    - 'API Reference':
+        - 'Overview': 'api/Overview.md'
+        - 'Search': 'api/Search.md'
+        - 'Reverse': 'api/Reverse.md'
+        - 'Address Lookup': 'api/Lookup.md'
+        - 'Details' : 'api/Details.md'
+        - 'Status' : 'api/Status.md'
+        - 'Place Output Formats': 'api/Output.md'
+        - 'FAQ': 'api/Faq.md'
+    - 'Administration Guide':
+        - 'Basic Installation': 'admin/Installation.md'
+        - 'Import' : 'admin/Import.md'
+        - 'Update' : 'admin/Update.md'
+        - 'Deploy' : 'admin/Deployment-Python.md'
+        - 'Nominatim UI'  : 'admin/Setup-Nominatim-UI.md'
+        - 'Advanced Installations' : 'admin/Advanced-Installations.md'
+        - 'Maintenance' : 'admin/Maintenance.md'
+        - 'Migration from older Versions' : 'admin/Migration.md'
+        - 'Troubleshooting' : 'admin/Faq.md'
+        - 'Installation on Ubuntu 22' : 'admin/Install-on-Ubuntu-22.md'
+        - 'Installation on Ubuntu 24' : 'admin/Install-on-Ubuntu-24.md'
+    - 'Customization Guide':
+        - 'Overview': 'customize/Overview.md'
+        - 'Import Styles': 'customize/Import-Styles.md'
+        - 'Configuration Settings': 'customize/Settings.md'
+        - 'API Result Formatting': 'customize/Result-Formatting.md'
+        - 'Per-Country Data': 'customize/Country-Settings.md'
+        - 'Place Ranking' : 'customize/Ranking.md'
+        - 'Importance' : 'customize/Importance.md'
+        - 'Tokenizers' : 'customize/Tokenizers.md'
+        - 'Special Phrases': 'customize/Special-Phrases.md'
+        - 'External data: US housenumbers from TIGER': 'customize/Tiger.md'
+        - 'External data: Postcodes': 'customize/Postcodes.md'
+        - 'Conversion to SQLite': 'customize/SQLite.md'
+    - 'Library Guide':
+        - 'Getting Started': 'library/Getting-Started.md'
+        - 'Nominatim API class': 'library/NominatimAPI.md'
+        - 'Configuration': 'library/Configuration.md'
+        - 'Input Parameter Types': 'library/Input-Parameter-Types.md'
+        - 'Result Handling': 'library/Result-Handling.md'
+        - 'Low-level DB Access': 'library/Low-Level-DB-Access.md'
+    - 'Developers Guide':
+        - 'Architecture Overview' : 'develop/overview.md'
+        - 'Database Layout' : 'develop/Database-Layout.md'
+        - 'Indexing' : 'develop/Indexing.md'
+        - 'Tokenizers' : 'develop/Tokenizers.md'
+        - 'Custom modules for ICU tokenizer': 'develop/ICU-Tokenizer-Modules.md'
+        - 'Setup for Development' : 'develop/Development-Environment.md'
+        - 'Testing' : 'develop/Testing.md'
+        - 'External Data Sources': 'develop/data-sources.md'
+markdown_extensions:
+    - codehilite
+    - admonition
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
+    - def_list
+    - toc:
+        toc_depth: 4
+        permalink: 🔗
+extra_css: [extra.css, styles.css]
+exclude_docs: |
+    mk_install_instructions.py
+site_dir: site-html
+plugins:
+    - search
+    - mkdocstrings:
+        handlers:
+          python:
+            paths: ["src"]
+            options:
+              show_source: False
+              show_bases: False
+    - gen-files:
+        scripts:
+          - docs/mk_install_instructions.py

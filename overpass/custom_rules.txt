@@ -1,0 +1,14 @@
+# Özel Overpass API Kuralları
+# Türkiye bölgesi için optimize edilmiş
+
+# Maksimum sorgu süresi (saniye)
+max-time: 300
+
+# Maksimum sorgu boyutu (byte)
+max-size: 536870912
+
+# Maksimum element sayısı
+max-elements: 10000000
+
+# Varsayılan timeout değeri
+default-timeout: 180 

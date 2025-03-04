@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  nominatim:
+    image: mfurkansahin/nominatim-turkey:latest
+    ports:
+      - "8787:8080"
+    volumes:
+      - nominatim-data:/nominatim/data
+    restart: unless-stopped
+    shm_size: 1gb
+
+volumes:
+  nominatim-data:
